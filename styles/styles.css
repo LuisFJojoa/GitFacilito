@@ -109,8 +109,6 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Signika Negative', sans-serif;
     font-size: 25px;
     margin: 5px 0 10px 0;
-    text-transform: uppercase;
-    letter-spacing: 5px;
 }
 
 .infoContent .block h3 a {
@@ -148,7 +146,7 @@ h1,h2,h3,h4,h5,h6{
 .btn:hover{
     transform: scale(1.2);
     letter-spacing: 3px;
-    background-color: #D74932;
+    background-color: #794b43;
     color: white;
 }
 .fa:hover{
@@ -273,14 +271,14 @@ footer ul li a:hover{
     }
 }
 
-@media only screen and (max-width : 320px) 
+@media only screen and (max-width : 320px)
 {
     .cajas{width: 100%}
     .info{word-break: break-word}
 }
 
-/* Extra Small Devices, Phones */ 
-@media only screen and (max-width : 480px) 
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px)
 {
    .cajas{width: 100%}
    .info{word-break: break-word}
